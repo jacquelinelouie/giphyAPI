@@ -1,5 +1,5 @@
 
-var api = "http://api.giphy.com/v1/gifs/search?";
+var api = "https://api.giphy.com/v1/gifs/search?";
 var apiKey = "&api_key=q2PtZp2vyGmiuCZPkC6zGIiIQzOtKieq";
 var query = "&q=rainbow";
 //rainbow not hardcoded into code, want to get from user input AKA search result
